@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FlightSearchApp</string>
+    <string name="top_bar_app_name">Flight Search</string>
+    <string name="back_button">Back</string>
+    <string name="textfield_placeholder">Enter departure airport</string>
+    <string name="searchbar_preference">User Preference</string>
+
+    <string name="icon_save_favorite">save favorite route</string>
+
+    <string name="flight_detail_arrive">ARRIVE</string>
+    <string name="flight_detail_departure">DEPARTURE</string>
+
+    <string name="subtitle_flight_from">Flights from %s</string>
+    <string name="subtitle_favorite_routes">Favorite routes</string>
+
+    <string name="flight_destination_screen">Flight Destination</string>
+
+</resources>
